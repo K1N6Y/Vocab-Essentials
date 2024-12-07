@@ -14,4 +14,4 @@ A web app for learning German vocabulary with gamified progress tracking.
 ## Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/german-vocab-app.git
+   git clone https://github.com/K1N6Y/Vocab-Essentials
